@@ -1,13 +1,29 @@
-# Simple React Portfolio Project
+# Simple React Webpack SASS Portfolio Site
 
-Simple React/SASS/Webpack Portfolio site.
+Simple React/SASS/Webpack Starter.
 
 ### Getting Started
 
+
+Clone Repo
 ```
 > git clone https://github.com/rmorris84/react-portfolio.git
 > cd react-portfolio
-> npm install
-> npm start
-> navigate to http://localhost:8080
 ```
+
+Install all the necessary dependencies.
+```
+> npm install
+```
+
+Run an initial webpack build
+```
+> npm run dev
+```
+
+Start the development server
+```
+> npm run start
+```
+
+To view project, go to: [http://localhost:3000/](http://localhost:3000/)
